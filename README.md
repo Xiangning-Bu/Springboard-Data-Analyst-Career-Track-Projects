@@ -7,6 +7,7 @@
  ## Capstone Projects
  
  + Googleplay Store Apps- Exploratory data analysis
+ + AEMR_Case_Study _SQL analysis
  
  
  
