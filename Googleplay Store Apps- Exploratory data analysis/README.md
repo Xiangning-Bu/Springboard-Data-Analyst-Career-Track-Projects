@@ -4,7 +4,7 @@
 
 In this project, I performed data analysis on Googleplay Store Apps dataset in two ways and presented in three types of presentations:
 
-**1. [Tableau Dashboard](https://public.tableau.com/profile/xiangning.bu#!/vizhome/GoogleappsEDA/Story1 "Tableau Public")**
+**1. [Tableau Public Dashboard](https://public.tableau.com/profile/xiangning.bu#!/vizhome/GoogleappsEDA/Story1 "Tableau Public")**
 
 **2. Python based data visualization**
 
